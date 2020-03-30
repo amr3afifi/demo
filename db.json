@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    { "email": "amr7afifi@gmail.com", "password": "123456" },
+    { "email": "2", "password": "Post 2" },
+    { "email": "3", "password": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
